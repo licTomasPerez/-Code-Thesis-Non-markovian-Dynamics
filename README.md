@@ -54,8 +54,11 @@ To be completed
 
 ## Versioning
 
+To be completed
 
 ## Configuration
+
+To be completed
 
 ## Tests
 
@@ -63,11 +66,11 @@ To be Completed
 
 ## Style guide
 
-Explain your code style and show how to check it.
+To be completed
 
 ## Licensing
 
-State what the license is and how to find the text version of the license.
+To be completed
 
 
 
