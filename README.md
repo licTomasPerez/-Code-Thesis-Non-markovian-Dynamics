@@ -16,9 +16,9 @@ In this work, a generalization based on the Max-Ent property of Gaussian states 
 
 As an application case, we will study the relative entropy between the states that results from the dynamics in the Dicke model with its corresponding estimates as MaxEnt states defined by their local values and two-body correlations.
 
-* We'll compare &rho;(t)$ with its max-ent state associated with a base of observables,
-* compare &rho;(t)$ with its projected state, using the sc corresponding to the initial state, associated to a base of observables,
-* and compare &rho;(t)$ with its projected state, using the sc corresponding to the instantaneous state, associated to a base of observables.
+* We'll compare &rho;*(t)* with its max-ent state associated with a base of observables,
+* compare &rho;*(t)*$ with its projected state, using the sc corresponding to the initial state, associated to a base of observables,
+* and compare &rho;*(t)* with its projected state, using the sc corresponding to the instantaneous state, associated to a base of observables.
 
 ## Installing / Getting started
 
